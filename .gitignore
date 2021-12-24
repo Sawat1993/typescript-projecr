@@ -1,0 +1,86 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Sawat1993 
+Sawat1993
+/
+CommonAngular
+Public
+Code
+Issues
+Pull requests
+15
+Actions
+Projects
+Wiki
+Security
+32
+Insights
+Settings
+We found potential security vulnerabilities in your dependencies.
+Only the owner of this repository can see this message.
+
+CommonAngular/.gitignore
+
+Sawatantra Chauhan initial setup
+Latest commit 683bf8c on 9 Sep 2019
+ History
+ 0 contributors
+39 lines (33 sloc)  503 Bytes
+   
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
